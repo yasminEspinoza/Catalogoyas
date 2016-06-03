@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.ayel"
+    version   = "1.0.0">
+
+<name>Catalogo Espinoza</name>
+
+<description>
+CATALOGO DE PRODUCTOS CON PHONEGAP</description>
+
+<author href="" email="">
+Yasmin Espinoza
+</author>
+<icon src="images/icono-clientes.png" gap:density="hdpi" gap:platform="android" />
+<icon src="images/Logo.png" gap:density="ldpi" gap:platform="android" />
+<icon src="images/Logo.png" gap:density="mdpi" gap:platform="android" />
+<icon src="images/Logo.png" gap:density="xhdpi" gap:platform="android" />
+
+<gap:plugin name="org.apache.cordova.dialogs" />
+<preference name="phonegap-version" value="3.3.0" />
+</widget>
